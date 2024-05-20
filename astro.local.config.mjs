@@ -10,7 +10,7 @@ import icon from "astro-icon";
 export default defineConfig({
 	integrations: [
 		tailwind({
-			configFile: './tailwind.baic-krasnodar.js'
+			configFile: './tailwind.baic.js'
 		}),
 		sitemap(),
 		robots(),
