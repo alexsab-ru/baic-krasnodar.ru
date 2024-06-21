@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <carcopy version="2">
-  <creation-date>21 Jun 2024 12:01:31 GMT+0</creation-date>
+  <creation-date>21 Jun 2024 13:00:52 GMT+0</creation-date>
   <offers>
     <offer>
       <id>9386351</id>
       <seller-id>68899</seller-id>
       <seller-key />
-      <date>2024-06-21 14:54:00</date>
+      <date>2024-06-21 15:54:26</date>
       <valid-thru-date>19-07-2024</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
@@ -20,12 +20,12 @@
       <modification-id>21948044</modification-id>
       <mark_id>BAIC</mark_id><folder_id>U5 Plus</folder_id><modification_id>1.5 CVT (105 л.с.)</modification_id><complectation_name /><year>2023</year>
       <registration_year>2023</registration_year>
-      <price>1766900</price>
+      <price>2115000</price>
       <currency-type>RUR</currency-type>
       <old_price />
       <old_price_currency />
       <discount-price />
-      <discount-price-reason />
+      <discount-price-reason>Цена по специальной акции импортера (скидка от представительства бренда)</discount-price-reason>
       <credit-discount>200000</credit-discount>
       <max_discount /><insurance-discount />
       <tradein-discount>100000</tradein-discount>
@@ -131,12 +131,12 @@
       <color-tags />
       <max-sale-date />
       <diagnostic-card-url />
-    <priceWithDiscount>1766900</priceWithDiscount><sale_price>1766900</sale_price><url>https://baic-krasnodar.ru/cars/baic-u5-plus-15-cvt-105-лс-красный-2023/</url></offer>
+    <priceWithDiscount>2115000</priceWithDiscount><sale_price>2115000</sale_price><url>https://baic-krasnodar.ru/cars/baic-u5-plus-15-cvt-105-лс-красный-2023/</url></offer>
     <offer>
       <id>9410589</id>
       <seller-id>68899</seller-id>
       <seller-key />
-      <date>2024-06-21 14:55:31</date>
+      <date>2024-06-21 15:54:20</date>
       <valid-thru-date>19-07-2024</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
@@ -155,7 +155,7 @@
       <old_price />
       <old_price_currency />
       <discount-price />
-      <discount-price-reason />
+      <discount-price-reason>Цена по специальной акции импортера (скидка от представительства бренда)</discount-price-reason>
       <credit-discount>228000</credit-discount>
       <max_discount>528000</max_discount><insurance-discount />
       <tradein-discount>300000</tradein-discount>
@@ -256,7 +256,7 @@ BAIC U5 Plus в BAIC Центр Автохолдинг,
       <id>9410592</id>
       <seller-id>68899</seller-id>
       <seller-key />
-      <date>2024-06-21 14:55:23</date>
+      <date>2024-06-21 15:54:21</date>
       <valid-thru-date>19-07-2024</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
@@ -275,7 +275,7 @@ BAIC U5 Plus в BAIC Центр Автохолдинг,
       <old_price />
       <old_price_currency />
       <discount-price />
-      <discount-price-reason />
+      <discount-price-reason>Цена по специальной акции импортера (скидка от представительства бренда)</discount-price-reason>
       <credit-discount>228000</credit-discount>
       <max_discount>528000</max_discount><insurance-discount />
       <tradein-discount>300000</tradein-discount>
@@ -376,7 +376,7 @@ BAIC U5 Plus в BAIC Центр Автохолдинг,
       <id>9410594</id>
       <seller-id>68899</seller-id>
       <seller-key />
-      <date>2024-06-21 14:55:03</date>
+      <date>2024-06-21 15:54:22</date>
       <valid-thru-date>19-07-2024</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
@@ -529,7 +529,7 @@ BAIC U5 Plus в BAIC Центр Автохолдинг,
       <id>9410595</id>
       <seller-id>68899</seller-id>
       <seller-key />
-      <date>2024-06-21 14:54:47</date>
+      <date>2024-06-21 15:54:23</date>
       <valid-thru-date>19-07-2024</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
@@ -692,7 +692,7 @@ BAIC U5 Plus в BAIC Центр Автохолдинг,
       <id>9624387</id>
       <seller-id>68899</seller-id>
       <seller-key />
-      <date>2024-06-01 02:50:02</date>
+      <date>2024-06-21 15:54:24</date>
       <valid-thru-date>19-07-2024</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
@@ -851,7 +851,7 @@ BAIC U5 Plus в BAIC Центр Автохолдинг,
       <id>9624390</id>
       <seller-id>68899</seller-id>
       <seller-key />
-      <date>2024-06-21 14:47:04</date>
+      <date>2024-06-21 15:54:24</date>
       <valid-thru-date>19-07-2024</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
