@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <carcopy version="2">
-  <creation-date>23 Jun 2024 23:28:28 GMT+0</creation-date>
+  <creation-date>24 Jun 2024 07:37:25 GMT+0</creation-date>
   <offers>
     <offer>
       <id>9386351</id>
       <seller-id>68899</seller-id>
       <seller-key />
-      <date>2024-06-21 15:54:26</date>
+      <date>2024-06-24 10:24:26</date>
       <valid-thru-date>22-07-2024</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
@@ -25,10 +25,10 @@
       <old_price />
       <old_price_currency />
       <discount-price />
-      <discount-price-reason>Цена по специальной акции импортера (скидка от представительства бренда)</discount-price-reason>
-      <credit-discount>200000</credit-discount>
+      <discount-price-reason />
+      <credit-discount>250000</credit-discount>
       <max_discount /><insurance-discount />
-      <tradein-discount>100000</tradein-discount>
+      <tradein-discount>250000</tradein-discount>
       <vat-invoice>no</vat-invoice>
       <haggle>no</haggle>
       <run>0</run>
@@ -136,7 +136,7 @@
       <id>9410589</id>
       <seller-id>68899</seller-id>
       <seller-key />
-      <date>2024-06-21 15:54:20</date>
+      <date>2024-06-24 10:24:38</date>
       <valid-thru-date>22-07-2024</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
@@ -155,10 +155,10 @@
       <old_price />
       <old_price_currency />
       <discount-price />
-      <discount-price-reason>Цена по специальной акции импортера (скидка от представительства бренда)</discount-price-reason>
-      <credit-discount>228000</credit-discount>
-      <max_discount>528000</max_discount><insurance-discount />
-      <tradein-discount>300000</tradein-discount>
+      <discount-price-reason />
+      <credit-discount>250000</credit-discount>
+      <max_discount /><insurance-discount />
+      <tradein-discount>250000</tradein-discount>
       <vat-invoice>yes</vat-invoice>
       <haggle>no</haggle>
       <run>0</run>
@@ -251,12 +251,12 @@ BAIC U5 Plus в BAIC Центр Автохолдинг,
       <color-tags />
       <max-sale-date />
       <diagnostic-card-url />
-    <priceWithDiscount>1587000</priceWithDiscount><sale_price>1587000</sale_price><url>https://baic-krasnodar.ru/cars/baic-u5-plus-15-cvt-105-лс-luxury-черный-2023/</url></offer>
+    <priceWithDiscount>2115000</priceWithDiscount><sale_price>2115000</sale_price><url>https://baic-krasnodar.ru/cars/baic-u5-plus-15-cvt-105-лс-luxury-черный-2023/</url></offer>
     <offer>
       <id>9410592</id>
       <seller-id>68899</seller-id>
       <seller-key />
-      <date>2024-06-21 15:54:21</date>
+      <date>2024-06-24 10:24:48</date>
       <valid-thru-date>22-07-2024</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
@@ -276,9 +276,9 @@ BAIC U5 Plus в BAIC Центр Автохолдинг,
       <old_price_currency />
       <discount-price />
       <discount-price-reason>Цена по специальной акции импортера (скидка от представительства бренда)</discount-price-reason>
-      <credit-discount>228000</credit-discount>
+      <credit-discount>250000</credit-discount>
       <max_discount>528000</max_discount><insurance-discount />
-      <tradein-discount>300000</tradein-discount>
+      <tradein-discount>250000</tradein-discount>
       <vat-invoice>yes</vat-invoice>
       <haggle>no</haggle>
       <run>0</run>
@@ -376,7 +376,7 @@ BAIC U5 Plus в BAIC Центр Автохолдинг,
       <id>9410594</id>
       <seller-id>68899</seller-id>
       <seller-key />
-      <date>2024-06-21 15:54:22</date>
+      <date>2024-06-24 10:24:53</date>
       <valid-thru-date>22-07-2024</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
@@ -396,9 +396,9 @@ BAIC U5 Plus в BAIC Центр Автохолдинг,
       <old_price_currency />
       <discount-price />
       <discount-price-reason />
-      <credit-discount>228000</credit-discount>
+      <credit-discount>250000</credit-discount>
       <max_discount>528000</max_discount><insurance-discount />
-      <tradein-discount>300000</tradein-discount>
+      <tradein-discount>250000</tradein-discount>
       <vat-invoice>yes</vat-invoice>
       <haggle>no</haggle>
       <run>0</run>
@@ -529,7 +529,7 @@ BAIC U5 Plus в BAIC Центр Автохолдинг,
       <id>9410595</id>
       <seller-id>68899</seller-id>
       <seller-key />
-      <date>2024-06-21 15:54:23</date>
+      <date>2024-06-24 10:25:02</date>
       <valid-thru-date>22-07-2024</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
@@ -549,9 +549,9 @@ BAIC U5 Plus в BAIC Центр Автохолдинг,
       <old_price_currency />
       <discount-price />
       <discount-price-reason />
-      <credit-discount>228000</credit-discount>
-      <max_discount>528000</max_discount><insurance-discount />
-      <tradein-discount>300000</tradein-discount>
+      <credit-discount>250000</credit-discount>
+      <max_discount /><insurance-discount />
+      <tradein-discount>250000</tradein-discount>
       <vat-invoice>yes</vat-invoice>
       <haggle>no</haggle>
       <run>0</run>
@@ -687,12 +687,12 @@ BAIC U5 Plus в BAIC Центр Автохолдинг,
       <color-tags />
       <max-sale-date />
       <diagnostic-card-url />
-    <priceWithDiscount>1587000</priceWithDiscount><sale_price>1587000</sale_price><url>https://baic-krasnodar.ru/cars/baic-u5-plus-15-cvt-105-лс-luxury-белый-2023/</url></offer>
+    <priceWithDiscount>2115000</priceWithDiscount><sale_price>2115000</sale_price><url>https://baic-krasnodar.ru/cars/baic-u5-plus-15-cvt-105-лс-luxury-белый-2023/</url></offer>
     <offer>
       <id>9624387</id>
       <seller-id>68899</seller-id>
       <seller-key />
-      <date>2024-06-21 15:54:24</date>
+      <date>2024-06-24 10:25:12</date>
       <valid-thru-date>22-07-2024</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
@@ -710,10 +710,10 @@ BAIC U5 Plus в BAIC Центр Автохолдинг,
       <currency-type>RUR</currency-type>
       <old_price />
       <old_price_currency />
-      <discount-price>1715000</discount-price>
-      <discount-price-reason>Цена по специальной акции импортера (скидка от представительства бренда)</discount-price-reason>
-      <credit-discount />
-      <max_discount>400000</max_discount><insurance-discount />
+      <discount-price />
+      <discount-price-reason />
+      <credit-discount>250000</credit-discount>
+      <max_discount /><insurance-discount />
       <tradein-discount>250000</tradein-discount>
       <vat-invoice>no</vat-invoice>
       <haggle>no</haggle>
@@ -846,12 +846,12 @@ BAIC U5 Plus в BAIC Центр Автохолдинг,
       <color-tags />
       <max-sale-date />
       <diagnostic-card-url />
-    <priceWithDiscount>1715000</priceWithDiscount><sale_price>1715000</sale_price><url>https://baic-krasnodar.ru/cars/baic-u5-plus-15-cvt-105-лс-luxury-белый-2023/</url></offer>
+    <priceWithDiscount>2115000</priceWithDiscount><sale_price>2115000</sale_price><url>https://baic-krasnodar.ru/cars/baic-u5-plus-15-cvt-105-лс-luxury-белый-2023/</url></offer>
     <offer>
       <id>9624390</id>
       <seller-id>68899</seller-id>
       <seller-key />
-      <date>2024-06-21 15:54:24</date>
+      <date>2024-06-24 10:25:20</date>
       <valid-thru-date>22-07-2024</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
@@ -869,10 +869,10 @@ BAIC U5 Plus в BAIC Центр Автохолдинг,
       <currency-type>RUR</currency-type>
       <old_price />
       <old_price_currency />
-      <discount-price>1715000</discount-price>
-      <discount-price-reason>Цена по специальной акции импортера (скидка от представительства бренда)</discount-price-reason>
-      <credit-discount />
-      <max_discount>400000</max_discount><insurance-discount />
+      <discount-price />
+      <discount-price-reason />
+      <credit-discount>250000</credit-discount>
+      <max_discount /><insurance-discount />
       <tradein-discount>250000</tradein-discount>
       <vat-invoice>no</vat-invoice>
       <haggle>no</haggle>
@@ -1007,7 +1007,7 @@ BAIC U5 Plus в BAIC Центр Автохолдинг,
       <color-tags />
       <max-sale-date />
       <diagnostic-card-url />
-    <priceWithDiscount>1715000</priceWithDiscount><sale_price>1715000</sale_price><url>https://baic-krasnodar.ru/cars/baic-u5-plus-15-cvt-105-лс-luxury-черный-2023/</url></offer>
+    <priceWithDiscount>2115000</priceWithDiscount><sale_price>2115000</sale_price><url>https://baic-krasnodar.ru/cars/baic-u5-plus-15-cvt-105-лс-luxury-черный-2023/</url></offer>
   </offers>
   <sellers>
     <seller>
