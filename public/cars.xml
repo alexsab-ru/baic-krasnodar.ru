@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
 <carcopy version="2">
-  <creation-date>04 Jul 2024 23:27:33 GMT+0</creation-date>
+  <creation-date>05 Jul 2024 23:26:28 GMT+0</creation-date>
   <offers>
     <offer>
       <id>9386351</id>
       <seller-id>68899</seller-id>
       <seller-key />
       <date>2024-07-04 09:54:51</date>
-      <valid-thru-date>02-08-2024</valid-thru-date>
+      <valid-thru-date>03-08-2024</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
       <category-id>1</category-id>
@@ -155,7 +155,7 @@
       <seller-id>68899</seller-id>
       <seller-key />
       <date>2024-07-04 09:56:54</date>
-      <valid-thru-date>02-08-2024</valid-thru-date>
+      <valid-thru-date>03-08-2024</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
       <category-id>1</category-id>
@@ -287,7 +287,7 @@ BAIC U5 Plus в BAIC Центр Автохолдинг,
       <seller-id>68899</seller-id>
       <seller-key />
       <date>2024-07-04 09:56:06</date>
-      <valid-thru-date>02-08-2024</valid-thru-date>
+      <valid-thru-date>03-08-2024</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
       <category-id>1</category-id>
@@ -419,7 +419,7 @@ BAIC U5 Plus в BAIC Центр Автохолдинг,
       <seller-id>68899</seller-id>
       <seller-key />
       <date>2024-07-04 09:54:21</date>
-      <valid-thru-date>02-08-2024</valid-thru-date>
+      <valid-thru-date>03-08-2024</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
       <category-id>1</category-id>
@@ -590,7 +590,7 @@ BAIC U5 Plus в BAIC Центр Автохолдинг,
       <seller-id>68899</seller-id>
       <seller-key />
       <date>2024-07-01 00:00:41</date>
-      <valid-thru-date>02-08-2024</valid-thru-date>
+      <valid-thru-date>03-08-2024</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
       <category-id>1</category-id>
@@ -753,7 +753,7 @@ BAIC U5 Plus в BAIC Центр Автохолдинг,
       <seller-id>68899</seller-id>
       <seller-key />
       <date>2024-07-04 09:53:21</date>
-      <valid-thru-date>02-08-2024</valid-thru-date>
+      <valid-thru-date>03-08-2024</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
       <category-id>1</category-id>
@@ -930,7 +930,7 @@ BAIC U5 Plus в BAIC Центр Автохолдинг,
       <seller-id>68899</seller-id>
       <seller-key />
       <date>2024-07-04 09:51:36</date>
-      <valid-thru-date>02-08-2024</valid-thru-date>
+      <valid-thru-date>03-08-2024</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
       <category-id>1</category-id>
@@ -1103,7 +1103,7 @@ BAIC U5 Plus в BAIC Центр Автохолдинг,
       <seller-id>68899</seller-id>
       <seller-key />
       <date>2024-07-04 15:38:52</date>
-      <valid-thru-date>02-08-2024</valid-thru-date>
+      <valid-thru-date>03-08-2024</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
       <category-id>1</category-id>
@@ -1254,7 +1254,9 @@ BAIC U5 Plus в BAIC Центр Автохолдинг,
       </photos>
       <ovido_url />
       <publications />
-      <markets_data />
+      <markets_data>
+        <market name="avito.ru" url="https://www.avito.ru/items/4364056366" />
+      </markets_data>
       <warranty-expire />
       <admission-status />
       <crm-status />
@@ -1267,7 +1269,7 @@ BAIC U5 Plus в BAIC Центр Автохолдинг,
       <seller-id>68899</seller-id>
       <seller-key />
       <date>2024-07-04 15:42:00</date>
-      <valid-thru-date>02-08-2024</valid-thru-date>
+      <valid-thru-date>03-08-2024</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
       <category-id>1</category-id>
@@ -1423,7 +1425,9 @@ BAIC U5 Plus в BAIC Центр Автохолдинг,
       </photos>
       <ovido_url />
       <publications />
-      <markets_data />
+      <markets_data>
+        <market name="avito.ru" url="https://www.avito.ru/items/4364020122" />
+      </markets_data>
       <warranty-expire />
       <admission-status />
       <crm-status />
@@ -1436,7 +1440,7 @@ BAIC U5 Plus в BAIC Центр Автохолдинг,
       <seller-id>68899</seller-id>
       <seller-key />
       <date>2024-07-04 15:44:05</date>
-      <valid-thru-date>02-08-2024</valid-thru-date>
+      <valid-thru-date>03-08-2024</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
       <category-id>1</category-id>
@@ -1559,7 +1563,9 @@ BAIC U5 Plus в BAIC Центр Автохолдинг,
       </photos>
       <ovido_url />
       <publications />
-      <markets_data />
+      <markets_data>
+        <market name="avito.ru" url="https://www.avito.ru/items/4363846803" />
+      </markets_data>
       <warranty-expire />
       <admission-status />
       <crm-status />
@@ -1572,7 +1578,7 @@ BAIC U5 Plus в BAIC Центр Автохолдинг,
       <seller-id>68899</seller-id>
       <seller-key />
       <date>2024-07-04 15:45:39</date>
-      <valid-thru-date>02-08-2024</valid-thru-date>
+      <valid-thru-date>03-08-2024</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
       <category-id>1</category-id>
@@ -1695,7 +1701,9 @@ BAIC U5 Plus в BAIC Центр Автохолдинг,
       </photos>
       <ovido_url />
       <publications />
-      <markets_data />
+      <markets_data>
+        <market name="avito.ru" url="https://www.avito.ru/items/4363993411" />
+      </markets_data>
       <warranty-expire />
       <admission-status />
       <crm-status />
