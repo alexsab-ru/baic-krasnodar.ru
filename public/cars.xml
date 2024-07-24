@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <carcopy version="2">
-  <creation-date>24 Jul 2024 06:52:17 GMT+0</creation-date>
+  <creation-date>24 Jul 2024 08:41:17 GMT+0</creation-date>
   <offers>
     <offer>
       <id>9386351</id>
@@ -2155,7 +2155,7 @@ BAIC U5 Plus в BAIC Центр Автохолдинг,
       <id>9715004</id>
       <seller-id>68899</seller-id>
       <seller-key />
-      <date>2024-07-24 09:47:20</date>
+      <date>2024-07-24 11:32:27</date>
       <valid-thru-date>21-08-2024</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
@@ -2166,8 +2166,8 @@ BAIC U5 Plus в BAIC Центр Автохолдинг,
       <engine-type>Бензин инжектор</engine-type>
       <make-id>2018</make-id>
       <model-id>4052</model-id>
-      <modification-id>21948049</modification-id>
-      <mark_id>BAIC</mark_id><folder_id>X35</folder_id><modification_id>1.5 AT (112 л.с.)</modification_id><complectation_name>Luxury</complectation_name><year>2024</year>
+      <modification-id>21948050</modification-id>
+      <mark_id>BAIC</mark_id><folder_id>X35</folder_id><modification_id>1.5 CVT (136 л.с.)</modification_id><complectation_name>Luxury</complectation_name><year>2024</year>
       <registration_year>2024</registration_year>
       <price>2370000</price>
       <currency-type>RUR</currency-type>
@@ -2188,7 +2188,7 @@ BAIC U5 Plus в BAIC Центр Автохолдинг,
       <color>белый</color>
       <color-metallic>no</color-metallic>
       <doors>5</doors>
-      <power>112</power>
+      <power>136</power>
       <power-metric>hp</power-metric>
       <transmission-id>2</transmission-id>
       <transmission>Автомат</transmission>
@@ -2199,7 +2199,7 @@ BAIC U5 Plus в BAIC Центр Автохолдинг,
       <custom-clean>yes</custom-clean>
       <wheel>Левый</wheel><certified_used_car />
       <sts />
-      <url_link>https://baic-krasnodar.ru/cars/baic-x35-15-at-112-лс-luxury-белый-2024/</url_link>
+      <url_link>https://baic-krasnodar.ru/cars/baic-x35-15-cvt-136-лс-luxury-белый-2024/</url_link>
       <location-address>Новая Адыгея, ул. Тургеневское шоссе, д. 20</location-address>
       <location-latitude />
       <location-longitude />
@@ -2240,11 +2240,13 @@ BAIC U5 Plus в BAIC Центр Автохолдинг,
 - Многофункциональное рулевое колесо с аудиоконтролем
 - Система помощи при старте на подъеме и система стабилизации
 
-Автомобиль оснащен 1.5-литровым бензиновым двигателем мощностью 112 л.с., 5-ступенчатой автоматической коробкой передач. Отличный выбор для городской езды и загородных поездок.
+Автомобиль оснащен 1.5-литровым бензиновым двигателем мощностью 136 л.с., 7DCT коробкой передач. Отличный выбор для городской езды и загородных поездок.
 .</comment>
-      <equipment>Отделка кожей рулевого колеса, Бортовой компьютер, Датчик света, Датчик давления в шинах, Мультифункциональное рулевое колесо, Розетка 12v, Камера заднего вида, USB, Bluetooth, Крепление для детского кресла (Isofix/LATCH), Электропривод зеркал, Электростеклоподъемники передние, Электростеклоподъемники задние, Регулировка сидения водителя по высоте, Антиблокировочная система (ABS), Антипробуксовочная система, Система стабилизации (ESP), Система помощи при старте в гору, Система помощи при парковке (задняя), Сигнализация, Штатный иммобилайзер, Система доступа без ключа, Центральный замок, Блокировка замков задних дверей, Запуск двигателя с кнопки, Подушка безопасности водителя, Подушка безопасности пассажира, Штатная аудиосистема с tv, Легкосплавные диски 17", Светодиодные фары, Кондиционер (есть), Круиз-контроль, Регулировка руля по высоте</equipment>
+      <equipment>Отделка кожей рулевого колеса, Люк, Панорамная крыша / лобовое стекло, Бортовой компьютер, Датчик света, Датчик давления в шинах, Мультифункциональное рулевое колесо, Розетка 12v, Камера заднего вида, USB, Bluetooth, Крепление для детского кресла (Isofix/LATCH), Электропривод зеркал, Электростеклоподъемники передние, Электростеклоподъемники задние, Регулировка сидения водителя по высоте, Антиблокировочная система (ABS), Антипробуксовочная система, Система стабилизации (ESP), Система помощи при старте в гору, Система помощи при парковке (задняя), Складывающееся заднее сидение, Сигнализация, Штатный иммобилайзер, Система доступа без ключа, Центральный замок, Запуск двигателя с кнопки, Подушка безопасности водителя, Подушка безопасности пассажира, Штатная аудиосистема с tv, Легкосплавные диски 17", Светодиодные фары, Усилитель руля, Кондиционер (есть), Круиз-контроль, Регулировка руля по высоте</equipment>
       <equipment-id>
         <item>479</item>
+        <item>16</item>
+        <item>525</item>
         <item>112</item>
         <item>317</item>
         <item>498</item>
@@ -2263,17 +2265,18 @@ BAIC U5 Plus в BAIC Центр Автохолдинг,
         <item>24</item>
         <item>486</item>
         <item>59</item>
+        <item>469</item>
         <item>54</item>
         <item>20</item>
         <item>483</item>
         <item>8</item>
-        <item>508</item>
         <item>477</item>
         <item>140</item>
         <item>444</item>
         <item>432</item>
         <item>7306</item>
         <item>423</item>
+        <item>7</item>
         <item>12</item>
         <item>113</item>
         <item>314</item>
@@ -2309,7 +2312,7 @@ BAIC U5 Plus в BAIC Центр Автохолдинг,
       <color-tags />
       <max-sale-date />
       <diagnostic-card-url />
-    <priceWithDiscount>2370000</priceWithDiscount><sale_price>2370000</sale_price><url>https://baic-krasnodar.ru/cars/baic-x35-15-at-112-лс-luxury-белый-2024/</url></offer>
+    <priceWithDiscount>2370000</priceWithDiscount><sale_price>2370000</sale_price><url>https://baic-krasnodar.ru/cars/baic-x35-15-cvt-136-лс-luxury-белый-2024/</url></offer>
     <offer>
       <id>9715005</id>
       <seller-id>68899</seller-id>
