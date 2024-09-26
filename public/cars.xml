@@ -1,13 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<carcopy version="2">
-  <creation-date>24 Sep 2024 23:26:50 GMT+0</creation-date>
-  <offers>
-    <offer>
+<carcopy>
+  <offers><offer>
       <id>9386351</id>
       <seller-id>68899</seller-id>
       <seller-key />
       <date>2024-09-01 00:00:47</date>
-      <valid-thru-date>23-10-2024</valid-thru-date>
+      <valid-thru-date>24-10-2024</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
       <category-id>1</category-id>
@@ -191,7 +189,7 @@
       <seller-id>68899</seller-id>
       <seller-key />
       <date>2024-09-01 00:00:47</date>
-      <valid-thru-date>23-10-2024</valid-thru-date>
+      <valid-thru-date>24-10-2024</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
       <category-id>1</category-id>
@@ -323,7 +321,7 @@ BAIC U5 Plus в BAIC Центр Автохолдинг,
       <seller-id>68899</seller-id>
       <seller-key />
       <date>2024-09-01 00:00:47</date>
-      <valid-thru-date>23-10-2024</valid-thru-date>
+      <valid-thru-date>24-10-2024</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
       <category-id>1</category-id>
@@ -455,7 +453,7 @@ BAIC U5 Plus в BAIC Центр Автохолдинг,
       <seller-id>68899</seller-id>
       <seller-key />
       <date>2024-09-01 00:00:47</date>
-      <valid-thru-date>23-10-2024</valid-thru-date>
+      <valid-thru-date>24-10-2024</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
       <category-id>1</category-id>
@@ -626,7 +624,7 @@ BAIC U5 Plus в BAIC Центр Автохолдинг,
       <seller-id>68899</seller-id>
       <seller-key />
       <date>2024-09-01 00:00:47</date>
-      <valid-thru-date>23-10-2024</valid-thru-date>
+      <valid-thru-date>24-10-2024</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
       <category-id>1</category-id>
@@ -789,7 +787,7 @@ BAIC U5 Plus в BAIC Центр Автохолдинг,
       <seller-id>68899</seller-id>
       <seller-key />
       <date>2024-09-01 00:00:47</date>
-      <valid-thru-date>23-10-2024</valid-thru-date>
+      <valid-thru-date>24-10-2024</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
       <category-id>1</category-id>
@@ -1002,7 +1000,7 @@ BAIC U5 Plus в BAIC Центр Автохолдинг,
       <seller-id>68899</seller-id>
       <seller-key />
       <date>2024-09-01 00:00:47</date>
-      <valid-thru-date>23-10-2024</valid-thru-date>
+      <valid-thru-date>24-10-2024</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
       <category-id>1</category-id>
@@ -1211,7 +1209,7 @@ BAIC U5 Plus в BAIC Центр Автохолдинг,
       <seller-id>68899</seller-id>
       <seller-key />
       <date>2024-09-01 00:00:47</date>
-      <valid-thru-date>23-10-2024</valid-thru-date>
+      <valid-thru-date>24-10-2024</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
       <category-id>1</category-id>
@@ -1413,7 +1411,7 @@ BAIC U5 Plus в BAIC Центр Автохолдинг,
       <seller-id>68899</seller-id>
       <seller-key />
       <date>2024-09-01 00:00:47</date>
-      <valid-thru-date>23-10-2024</valid-thru-date>
+      <valid-thru-date>24-10-2024</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
       <category-id>1</category-id>
@@ -1620,7 +1618,7 @@ BAIC U5 Plus в BAIC Центр Автохолдинг,
       <seller-id>68899</seller-id>
       <seller-key />
       <date>2024-09-01 00:00:47</date>
-      <valid-thru-date>23-10-2024</valid-thru-date>
+      <valid-thru-date>24-10-2024</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
       <category-id>1</category-id>
@@ -1794,7 +1792,7 @@ BAIC U5 Plus в BAIC Центр Автохолдинг,
       <seller-id>68899</seller-id>
       <seller-key />
       <date>2024-09-01 00:00:47</date>
-      <valid-thru-date>23-10-2024</valid-thru-date>
+      <valid-thru-date>24-10-2024</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
       <category-id>1</category-id>
@@ -1968,7 +1966,7 @@ BAIC U5 Plus в BAIC Центр Автохолдинг,
       <seller-id>68899</seller-id>
       <seller-key />
       <date>2024-09-01 00:00:47</date>
-      <valid-thru-date>23-10-2024</valid-thru-date>
+      <valid-thru-date>24-10-2024</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
       <category-id>1</category-id>
@@ -2156,7 +2154,7 @@ BAIC U5 Plus в BAIC Центр Автохолдинг,
       <seller-id>68899</seller-id>
       <seller-key />
       <date>2024-09-01 00:00:47</date>
-      <valid-thru-date>23-10-2024</valid-thru-date>
+      <valid-thru-date>24-10-2024</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
       <category-id>1</category-id>
@@ -2318,7 +2316,7 @@ BAIC U5 Plus в BAIC Центр Автохолдинг,
       <seller-id>68899</seller-id>
       <seller-key />
       <date>2024-09-01 00:00:47</date>
-      <valid-thru-date>23-10-2024</valid-thru-date>
+      <valid-thru-date>24-10-2024</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
       <category-id>1</category-id>
@@ -2493,7 +2491,7 @@ BAIC U5 Plus в BAIC Центр Автохолдинг,
       <seller-id>68899</seller-id>
       <seller-key />
       <date>2024-09-01 00:00:47</date>
-      <valid-thru-date>23-10-2024</valid-thru-date>
+      <valid-thru-date>24-10-2024</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
       <category-id>1</category-id>
@@ -2703,25 +2701,4 @@ BAIC U5 Plus в BAIC Центр Автохолдинг,
       <diagnostic-card-url />
     <priceWithDiscount>3280000</priceWithDiscount><sale_price>3280000</sale_price><url>https://baic-krasnodar.ru/cars/baic-x75-15-amt-177-лс-luxury-pro-серый-2024/</url></offer>
   </offers>
-  <sellers>
-    <seller>
-      <id>68899</id>
-      <login />
-      <password />
-      <name>Холдинг [BAIC] Новая Адыгея</name>
-      <type>commercial</type>
-      <country-id>7</country-id>
-      <country>Россия</country>
-      <city-id>Krasnodar</city-id>
-      <city>Краснодар</city>
-      <address>Новая Адыгея, ул. Тургеневское шоссе, д. 20</address>
-      <subway />
-      <longitude />
-      <latitude />
-      <phone>+7 (861) 297-01-20</phone>
-      <contact>Менеджер</contact>
-      <email>68899_cc@noemail.ru</email>
-      <url />
-    </seller>
-  </sellers>
 </carcopy>
