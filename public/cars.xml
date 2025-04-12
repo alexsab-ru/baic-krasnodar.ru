@@ -1263,7 +1263,7 @@ BAIC – красивый и комфортный, доступный и про�
   <availability>В наличии</availability>
   <custom>Растаможен</custom>
   <not_registered_in_russia>true</not_registered_in_russia>
-  <price>1705000</price>
+  <price>2115000</price>
   <currency>RUR</currency>
   <with_nds>false</with_nds>
   <vin>XWDCLSAC4P0004236</vin>
@@ -1304,8 +1304,12 @@ BAIC – красивый и комфортный, доступный и про�
 <image>https://img.carcopy.ru/88bd/d36d/de3d/ff04/7766/b27a/57bc/5e8e/e5e7/a57e/88bdd36dde3dff047766b27a57bc5e8ee5e7a57e_1600x0.jpg?s=132616</image>
 <image>https://img.carcopy.ru/84f3/be1c/c7c6/d7c7/2f37/0bfb/5102/99f1/d1bc/4bd6/84f3be1cc7c6d7c72f370bfb510299f1d1bc4bd6_1600x0.jpg?s=137442</image>
 </images>
+ <credit_discount>50000</credit_discount> <tradein_discount>50000</tradein_discount> <discount_price>
+    <price>2015000</price>
+    <action>show</action>
+  </discount_price>
   <description>⭐️Успейте купить желанный автомобиль по очень выгодным ценам, только до 30 Апреля!⭐ 
-[aooahabe:40636]</description>
-<max_discount>0</max_discount><priceWithDiscount>1705000</priceWithDiscount><sale_price>1705000</sale_price><url>https://baic-krasnodar.ru/cars/baic-u5-plus-15-cvt-105-лс-luxury-белый-2023/</url></car>
+[aooahabe:85225]</description>
+<max_discount>100000</max_discount><priceWithDiscount>2015000</priceWithDiscount><sale_price>2015000</sale_price><url>https://baic-krasnodar.ru/cars/baic-u5-plus-15-cvt-105-лс-luxury-белый-2023/</url></car>
 </cars>
 </data>
