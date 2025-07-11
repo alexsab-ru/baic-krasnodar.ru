@@ -26,6 +26,7 @@ on:
       - '.github/scripts/config_air_storage-friend.json'
       - '.github/scripts/config_air_storage.json'
       - '.github/scripts/config.py'
+      - '.github/scripts/create_cars.py'
       - '.github/scripts/getOneXML.py'
       - '.github/scripts/GSheetFetcher.js'
       - '.github/scripts/mergeCarPrices.js'
@@ -192,7 +193,7 @@ jobs:
         run: |
           pnpm build --outDir ./_site
 
-      - name: Set output
+      - name: Check specials
         id: check_specials
         run: |
           if [ -s special-offers-dates.txt ]; then
@@ -249,7 +250,12 @@ jobs:
     uses: ./.github/workflows/github-telegram.yml
     with:
       additional-text: |
-        $(echo -n '${{ needs.build.outputs.specials }}' | base64)
+        ${{ needs.build.outputs.specials }}
     secrets:
       TELEGRAM_TO: ${{ secrets.TELEGRAM_TO_SPECIAL }}
       TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+
+  check_links:
+    needs: [build, deploy]
+    if: ${{ github.event_name == 'schedule' }}
+    uses: ./.github/workflows/linkinator.yml
